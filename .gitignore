@@ -1,0 +1,13 @@
+.DS_Store
+.venv/
+node_modules/
+config.json
+data/
+*.db
+*.db-shm
+*.db-wal
+*.log
+__pycache__/
+*.py[cod]
+token
+frida-server

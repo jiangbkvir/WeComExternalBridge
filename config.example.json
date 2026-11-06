@@ -1,0 +1,23 @@
+{
+  "frida_host": "host.docker.internal",
+  "frida_port": 27042,
+  "frida_token": "",
+  "frida_connect_timeout_seconds": 15,
+  "process_name": "企业微信",
+  "wecom_pid": 0,
+  "allowed_group_ids": [],
+  "bot_user_id": "",
+  "bot_display_name": "数字员工",
+  "capture_only": true,
+  "send_enabled": false,
+  "require_outer_group": true,
+  "require_mention_id_match": true,
+  "max_text_chars": 4000,
+  "poll_interval_seconds": 0.75,
+  "poll_message_count": 50,
+  "reconnect_seconds": 3,
+  "reply_aggregate_seconds": 0.5,
+  "send_min_interval_seconds": 0.2,
+  "sent_echo_guard_seconds": 86400,
+  "event_retention_days": 7
+}

@@ -1,0 +1,23 @@
+{
+  "name": "wecom-external-bridge",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Frida tooling for the AstrBot WeCom external customer group adapter",
+  "keywords": [
+    "astrbot",
+    "frida",
+    "wecom",
+    "macos"
+  ],
+  "author": "jiangbkvir",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangbkvir/WeComExternalBridge.git"
+  },
+  "devDependencies": {
+    "@types/frida-gum": "^19.12.0",
+    "frida-compile": "^19.1.0",
+    "frida-objc-bridge": "^8.0.6"
+  }
+}
